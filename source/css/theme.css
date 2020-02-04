@@ -125,9 +125,9 @@ header .branding {
   position: relative;
 }
 
-.logo-image:hover {
+/* .logo-image:hover {
   animation: sway 1.4s ease-in-out both;
-}
+} */
 
 @keyframes sway {
   10%,
