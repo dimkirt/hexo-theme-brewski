@@ -5,11 +5,11 @@ menu:
   Home: /
   About: /about
   Archives: /archives
-  GitHub: 
+  GitHub: https://github.com/dimkirt
   RSS: /atom.xml
 
-favicon: /favicon.svg
-logo: /logo.svg
+favicon: /favicon.png
+logo: /logo.png
 
 # Disqus shortname
 disqus:
@@ -19,6 +19,6 @@ google_analytics:
 
 # Copyright Infomation
 copyright:
-  since:
-  name: 
-  url: 
+  since: 2020
+  name: Dimitris Kirtsios
+  url: backend-definite.com
