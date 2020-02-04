@@ -188,6 +188,11 @@ header .nav-list-item a {
   color: #79009e;
 }
 
+.archive-year {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
 .archive .post-item {
   display: flex;
   flex-wrap: wrap;
