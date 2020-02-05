@@ -6,7 +6,7 @@ menu:
   About: /about
   Archives: /archives
   GitHub: https://github.com/dimkirt
-  RSS: /atom.xml
+  RSS: https://backend-definite.com/atom.xml
 
 favicon: /favicon.png
 logo: /logo.png
@@ -21,4 +21,4 @@ google_analytics:
 copyright:
   since: 2020
   name: Dimitris Kirtsios
-  url: backend-definite.com
+  url: https://backend-definite.com
