@@ -12,7 +12,7 @@ favicon: /favicon.png
 logo: /logo.png
 
 # Disqus shortname
-disqus:
+disqus: https-backend-definite-com
 
 # Analytics
 google_analytics: UA-82252237-3
