@@ -42,7 +42,7 @@ h6 {
 
 ::selection {
   color: #fff;
-  background-color: #79009e;
+  background-color: rgb(30, 92, 199);
 }
 
 .nav-list {
@@ -57,7 +57,7 @@ h6 {
 }
 
 .nav-list-link:hover {
-  border-bottom: .2em solid #79009e;
+  border-bottom: .2em solid rgb(30, 92, 199);
   padding-bottom: .15em;
   transition: 150ms ease-in-out;
 }
@@ -185,7 +185,7 @@ header .nav-list-item a {
 }
 
 .home.post-list .read-more {
-  color: #79009e;
+  color: rgb(30, 92, 199);
 }
 
 .archive-year {
@@ -203,7 +203,7 @@ header .nav-list-item a {
   font-size: 1rem;
 }
 .archive .post-title-link {
-  color: #79009e;
+  color: rgb(30, 92, 199);
   padding-left: 1em;
 }
 .archive .post-title-link:hover {
@@ -254,7 +254,7 @@ header .nav-list-item a {
 .post-content h5 a:before,
 .post-content h6 a:before {
   content: "#";
-  color: #79009e;
+  color: rgb(30, 92, 199);
   position: absolute;
   left: -.8em;
   top: -.1em;
@@ -299,14 +299,14 @@ header .nav-list-item a {
 }
 
 .post-content a {
-  color: #79009e;
+  color: rgb(30, 92, 199);
 }
 .post-content blockquote {
   margin: 2em 0;
   padding: .5em 1.3em;
   border: .05em solid #eee;
   border-radius: .1em;
-  border-left-color: #79009e;
+  border-left-color: rgb(30, 92, 199);
   border-left-width: .1em;
 }
 
@@ -381,7 +381,7 @@ header .nav-list-item a {
   padding: .3em 1.5em;
   border-radius: 5px;
   color: #fff;
-  background-color: #79009e;
+  background-color: #0a050c;
   font-weight: 600;
 }
 .paginator .prev:hover,
